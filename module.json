@@ -20,8 +20,7 @@
     "compatibleCoreVersion": "10",
     "compatibility": {
         "minimum": "9",
-        "verified": "11.302",
-        "maximum": "12"
+        "verified": "11.302"
     },
     "relationships": {
         "systems": [
