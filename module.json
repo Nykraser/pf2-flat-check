@@ -21,7 +21,7 @@
     "compatibility": {
         "minimum": "9",
         "verified": "11.302",
-        "maximum": "11"
+        "maximum": "12"
     },
     "relationships": {
         "systems": [
